@@ -10,4 +10,4 @@ A weather web app built with Express, EJS and Open-Meteo API.
 ## Run Locally
 
 npm install  
-node server.js
+node index.js
